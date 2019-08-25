@@ -1,0 +1,82 @@
+html {
+  color: #000;
+  background: #fff;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+.table-menu {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px;
+  text-align: center;
+  background-color: #ff8217;
+  width: 76%;
+}
+.table-menu-td {
+  color: white;
+  font-style: italic;
+  font-family: "Cardinal-Alternate";
+  font-size: 14px;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: maroon;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: white;
+  text-decoration: none;
+}
+hr {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #fff;
+  margin: 10px 0 8px 0;
+}
+
+.div-about {
+  position: inherit;
+  margin: 100 auto;
+  width: 1000px;
+  margin: 0 auto;
+}
